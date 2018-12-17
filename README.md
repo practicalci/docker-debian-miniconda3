@@ -1,7 +1,7 @@
 [![Docker Stars](https://img.shields.io/docker/stars/practicalci/docker-debian-miniconda3.svg?style=flat-square)](https://hub.docker.com/r/practicalci/docker-debian-miniconda3/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/practicalci/docker-debian-miniconda3.svg?style=flat-square)](https://hub.docker.com/r/practicalci/docker-debian-miniconda3/)
 
-Lightweight Debian image with Miniconda3. Docker image
+Lightweight Debian with Miniconda3 Docker image
 ==============================
 
 This docker image used as a base for images that use conda environments.
@@ -52,3 +52,7 @@ This work is derived from the work of:
 | Author            | Work Source                                  | License                      |
 |:------------------|:---------------------------------------------|:-----------------------------|
 | Add Some Author   | <https://some-author-work-source-url>        | [some-author-license.txt](./attributions/some-author-license.txt) |
+
+References
+----------
+* <https://www.debian.org/releases/>
