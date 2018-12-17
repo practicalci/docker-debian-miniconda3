@@ -64,7 +64,8 @@ This work is derived from the work of:
 
 | Author            | Work Source                                  | License                      |
 |:------------------|:---------------------------------------------|:-----------------------------|
-| Add Some Author   | <https://some-author-work-source-url>        | [some-author-license.txt](./attributions/some-author-license.txt) |
+| [Deni Bertovic](https://github.com/denibertovic) | <https://denibertovic.com/posts/handling-permissions-with-docker-volumes/> | [cc-by-sa-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) |
+| [conda-forge](https://github.com/conda-forge) | <https://github.com/conda-forge/docker-images> | [conda-forge-bsd-3-clause-license](./attributions/conda-forge-bsd-3-clause-license.txt) |
 
 References
 ----------
